@@ -2,9 +2,13 @@
 layout: post
 title: First Post!
 mathjax: false
+tags:
+    - python
+    - notebook
 ---
 
 {% highlight python %}
+
 class EncoderDecoder(nn.Module):
     """
     A standard Encoder-Decoder architecture. Base for this and many 
@@ -28,4 +32,5 @@ class EncoderDecoder(nn.Module):
     
     def decode(self, memory, src_mask, tgt, tgt_mask):
         return self.decoder(self.tgt_embed(tgt), memory, src_mask, tgt_mask)
+        
 {% endhighlight %}

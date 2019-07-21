@@ -10,3 +10,7 @@ Lets start with some Python
 print("hello world")
 ```
 End of the experiment
+
+```python
+import numpy as np
+```

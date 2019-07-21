@@ -1,16 +1,11 @@
 ---
 layout: post
 title: First Post!
+mathjax: false
 ---
 
-Lets start with some Python
-<!--more-->
-
 ```python
-print("hello world")
-```
-End of the experiment
-
-```python
-import numpy as np
+>>> your_data = # plug your awesome dataset here
+>>> model = SuperCrossValidator(SuperDuper.fit, your_data, ResNet50, SGDOptimizer)
+# conquer world here
 ```

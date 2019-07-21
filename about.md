@@ -12,4 +12,4 @@ I am currently working as an applied scientist at Amazon. All views are mine,and
 
 ### Contact me
 
-[teja.phani@gmail.com](mailto:teja.phani@gmail.com)
+teja.phani at gmail

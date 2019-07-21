@@ -3,4 +3,7 @@ layout: post
 title: You're up and running!
 ---
 
-I am up
+```
+python
+print("hello world")
+```

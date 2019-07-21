@@ -1,9 +1,11 @@
 ---
 layout: post
-title: You're up and running!
+title: First Post!
 ---
 
 Lets start with some Python
+<!--more-->
+
 ```python
 print("hello world")
 ```
